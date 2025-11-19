@@ -15,7 +15,8 @@ Designed for clarity and decision-making, the dashboard includes KPIs, monthly t
 
 ---
 
-## 🔗 Dashboard File  
+## 🔗 Dashboard File 
+[Link to my report](https://app.powerbi.com/links/n8TfPMDZ9G?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 - **Adventure Works Dashboard.pbix** — Fully interactive Power BI report  
   Includes:  
   - Sales & profit KPIs  
